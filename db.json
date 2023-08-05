@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "JavaScript Fundamentals",
+      "description": "Learn the basics of JavaScript programming language.",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.6ahbWjp_g9hqhaTDSJOL1QHaEK&pid=Api&P=0&h=180",
+      "price": 49.99
+    },
+    {
+      "id": 2,
+      "title": "Python for Beginners",
+      "description": "A beginner's guide to Python programming.",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.dJToM1TiZiJA0GYwzDHwjQHaHY&pid=Api&P=0&h=180",
+      "price": 59.99
+    },
+    {
+      "id": 3,
+      "title": "Java Masterclass",
+      "description": "Master Java programming with hands-on projects.",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.d0NHhTUihbNfZ8bz6YXQTgHaEJ&pid=Api&P=0&h=180",
+      "price": 69.99
+    },
+    {
+      "id": 4,
+      "title": "C# Crash Course",
+      "description": "Get up to speed with C# programming language quickly.",
+      "image": "https://1.bp.blogspot.com/-qKYyslxasxA/WFjz8kJ4quI/AAAAAAAAr8A/Gkay3iW5l6cbsw3d1XZoTLNrbvWpif-qQCLcB/s1600/csharp.png",
+      "price": 54.99
+    },
+    {
+      "id": 5,
+      "title": "Ruby on Rails Web Development",
+      "description": "Build web applications with Ruby on Rails.",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.9-zzAoOQbbDv1jt7TJObzAAAAA&pid=Api&P=0&h=180",
+      "price": 74.99
+    },
+    {
+      "id": 6,
+      "title": "PHP Basics",
+      "description": "Learn the fundamentals of PHP programming.",
+      "image": "https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png",
+      "price": 44.99
+    },
+    {
+      "id": 7,
+      "title": "Swift Programming for iOS",
+      "description": "Develop iOS apps with Swift programming language.",
+      "image": "https://tuhoclaptrinh.edu.vn/upload/post/15/97/91/ngon-ngu-lap-trinh-swift-la-gi-891954.jpg",
+      "price": 64.99
+    },
+    {
+      "id": 8,
+      "title": "C++ Advanced Topics",
+      "description": "Dive deep into advanced C++ programming concepts.",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.xr_iD_mcADWTA5Qh48Bv1wHaIU&pid=Api&P=0&h=180",
+      "price": 79.99
+    },
+    {
+      "id": 9,
+      "title": "TypeScript Essentials",
+      "description": "An essential guide to TypeScript language.",
+      "image": "https://pantheon.io/sites/default/files/field/image/TypeScriptImage.jpeg",
+      "price": 49.99
+    },
+    {
+      "id": 10,
+      "title": "Go Programming",
+      "description": "Explore the world of Go programming language.",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.cQZI-a8d2cr5d0p-33AddQHaEL&pid=Api&P=0&h=180",
+      "price": 59.99
+    }
+  ]
+}
